@@ -1,0 +1,23 @@
+{
+  "name": "ocr",
+  "version": "1.0.0",
+  "description": "optical character recognition with Python",
+  "main": "index.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PurityMaina/ocr-python.git"
+  },
+  "author": "Purity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PurityMaina/ocr-python/issues"
+  },
+  "homepage": "https://github.com/PurityMaina/ocr-python#readme",
+  "dependencies": {
+    "serverless-python-requirements": "^4.3.0"
+  },
+  "devDependencies": {}
+}
